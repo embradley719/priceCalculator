@@ -1,0 +1,11 @@
+C:\Users\erin_\source\repos\PriceCalculator\PriceCalculator\bin\Debug\netcoreapp2.1\PriceCalculator.deps.json
+C:\Users\erin_\source\repos\PriceCalculator\PriceCalculator\bin\Debug\netcoreapp2.1\PriceCalculator.runtimeconfig.json
+C:\Users\erin_\source\repos\PriceCalculator\PriceCalculator\bin\Debug\netcoreapp2.1\PriceCalculator.runtimeconfig.dev.json
+C:\Users\erin_\source\repos\PriceCalculator\PriceCalculator\bin\Debug\netcoreapp2.1\PriceCalculator.dll
+C:\Users\erin_\source\repos\PriceCalculator\PriceCalculator\bin\Debug\netcoreapp2.1\PriceCalculator.pdb
+C:\Users\erin_\source\repos\PriceCalculator\PriceCalculator\obj\Debug\netcoreapp2.1\PriceCalculator.csprojAssemblyReference.cache
+C:\Users\erin_\source\repos\PriceCalculator\PriceCalculator\obj\Debug\netcoreapp2.1\PriceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\erin_\source\repos\PriceCalculator\PriceCalculator\obj\Debug\netcoreapp2.1\PriceCalculator.AssemblyInfoInputs.cache
+C:\Users\erin_\source\repos\PriceCalculator\PriceCalculator\obj\Debug\netcoreapp2.1\PriceCalculator.AssemblyInfo.cs
+C:\Users\erin_\source\repos\PriceCalculator\PriceCalculator\obj\Debug\netcoreapp2.1\PriceCalculator.dll
+C:\Users\erin_\source\repos\PriceCalculator\PriceCalculator\obj\Debug\netcoreapp2.1\PriceCalculator.pdb
